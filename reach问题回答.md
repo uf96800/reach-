@@ -12,6 +12,6 @@
   // Theorem formalization
   invariant((balance/204 == (2 * interact_Alice_wager)) ? ((0 <= 10) ? (10 < 3) : #f) : #f);
 
-5.(1)对 （2）对 （3）错
+5.(1)对 （2）对 （3）错  Reach 不会对添加到 Reach 应用程序的前端类型施加任何限制。
 
 备注：nhujj（赏金网站id）
